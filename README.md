@@ -1,7 +1,3 @@
-                                                    # Treva-Antony-Ogwang
-
----
-
 # Hi, I’m Treva Antony Ogwang 👋
 
 ### Data, AI and product builder based in Berlin
