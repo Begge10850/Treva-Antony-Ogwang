@@ -16,15 +16,20 @@ I am particularly interested in data engineering, analytics, applied AI, product
 
 ## About me
 
+I work across data engineering, data science and AI engineering because my projects cover the complete path from raw data to a usable product.
+
+I collect and validate data, design reliable pipelines, create analytical models and build interfaces or AI workflows that help people use the results. My strongest foundation is in Python, SQL, data modelling and analytics, supported by applied work in machine learning, generative AI and product development.
+
 - 🎓 MSc Information Systems student at the University of Münster
 - 🎓 BSc Data Science, AI and Digital Business graduate
 - 📍 Based in Berlin, Germany
-- 📊 Interested in data engineering, analytics, AI and digital products
-- 🧪 I place strong emphasis on testing, validation and data quality
-- 🧭 I design projects for both technical and non-technical readers
-- 💼 Background in data analytics and hands-on technology operations
-- 🌱 Continuously improving my knowledge of cloud data platforms, AI systems and product development
-- 🔎 Open to opportunities where data, technology and business decisions come together
+- ⚙️ Building end-to-end data and AI systems, from collection and storage to analysis and presentation
+- 🗄️ Developing data pipelines and analytical models with Python, SQL, Snowflake, Parquet and Amazon S3
+- 🤖 Applying machine learning, explainable AI and retrieval-augmented generation to practical problems
+- 🧪 Placing strong emphasis on testing, validation, traceability and data quality
+- 📊 Turning technical findings into clear information for technical and non-technical stakeholders
+- 💼 Bringing additional experience from data analytics and hands-on technology operations
+- 🔎 Open to data engineering, analytics and applied AI opportunities
 
 ---
 
